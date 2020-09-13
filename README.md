@@ -1,4 +1,4 @@
-# HelpfulShellScripts
+# Recipes
 Useful code for common issues
 
 | Shell | Link |
