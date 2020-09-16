@@ -1,6 +1,6 @@
 # Recipes
+Currently: Bash; Python.
 Useful code for common issues.
-Curently housing Bash, Python
 
 | Language |Tool| Link | Description |
 |:-----:|:-----:|:----:|:----:|
