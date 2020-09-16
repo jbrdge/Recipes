@@ -1,5 +1,6 @@
 # Recipes
-Useful code for common issues
+Useful code for common issues.
+Curently housing Bash, Python
 
 | Language |Tool| Link | Description |
 |:-----:|:-----:|:----:|:----:|
