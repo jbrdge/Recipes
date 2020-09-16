@@ -67,7 +67,7 @@ df = pd.concat((df1,df2))
 df = pd.concat((df1,df2), axis=1)
 
 
-
+#------------------Manipulating and Converting Data----------------#
 
 #remove all commas from df
 df = df.replace(to_replace=r',', value='', regex=True)
