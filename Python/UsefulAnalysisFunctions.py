@@ -69,4 +69,4 @@ def L_p_distance(A, B, p):
 Sigmoid Function
 '''
 def sigmoid(x):
-    return(1/(1+exp(-x)))
+    return(1/(1+np.exp(-x)))
