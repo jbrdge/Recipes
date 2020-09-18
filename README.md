@@ -11,3 +11,4 @@ Useful code for common issues.
 |Python|Pandas|[Common ETL](https://github.com/jbrdge/Recipes/blob/master/Python/Pandas/commonPandasETL.py)| Commonly used code for ETL|
 |Python|Numpy|[Useful Analysis](https://github.com/jbrdge/Recipes/blob/master/Python/UsefulAnalysisFunctions.py)| Various sums, distances, and the sigmoid functions|
 |Python|Numpy|[Quicksort](https://github.com/jbrdge/Recipes/blob/master/Python/quicksort.py)| Quicksort of two arrays A0 & A1|
+|Python|Threading|[Multithreading](https://github.com/jbrdge/Recipes/blob/master/Python/multithreading.py)| Multithread to speed up your processing time |
