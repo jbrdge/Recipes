@@ -12,3 +12,5 @@ Useful code for common issues.
 |Python|Numpy|[Useful Analysis](https://github.com/jbrdge/Recipes/blob/master/Python/UsefulAnalysisFunctions.py)| Various sums, distances, and the sigmoid functions|
 |Python|Numpy|[Quicksort](https://github.com/jbrdge/Recipes/blob/master/Python/quicksort.py)| Quicksort of two arrays A0 & A1|
 |Python|Threading|[Multithreading](https://github.com/jbrdge/Recipes/blob/master/Python/multithreading.py)| Multithread to speed up your processing time |
+|Python|Sklearn|[Decision Trees](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/DecisionTrees.py)| Uses Decsion Tree Model, returns Mean Absolute Error |
+|Python|Sklearn|[Random Forest](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/RandomForest.py)| Uses Random Forest Model, returns Mean Absolute Error |
