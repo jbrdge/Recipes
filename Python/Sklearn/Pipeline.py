@@ -3,6 +3,9 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder
 
+#  we use the ColumnTransformer class to bundle together
+#  different preprocessing steps
+
 # Preprocessing for numerical data
 numerical_transformer = SimpleImputer(strategy='constant')
 
