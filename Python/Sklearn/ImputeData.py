@@ -4,7 +4,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.model_selection import train_test_split
 
 X=[1,2,3,nan,5,nan,7,8,9,10]
-y=[1,1,0,1,0,nan,1,0,0,nan]
+y=[1,1,0,1,0,1,1,0,0,0]
 
 
 #split_data
