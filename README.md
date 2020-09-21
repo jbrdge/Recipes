@@ -18,3 +18,4 @@ Useful code for common issues.
 |Python|Sklearn|[Categorical Encoding](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/CategoricalEncoding.py)| Label Encoding and One-Hot Encoding examples |
 |Python|Sklearn|[Pipeline](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/Pipeline.py)| Design a pipeline to combine multiple steps |
 |Python|XGBoost|[XGBoost](https://github.com/jbrdge/Recipes/blob/master/Python/XGBoost/xgboost.py)| Extreme Gradient Boosting |
+|Python|Multiprocessing|[Multiprocessing](https://github.com/jbrdge/Recipes/blob/master/Python/multiprocessing.py)| Enhance performance by using multiple processes in parallel. |
