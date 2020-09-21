@@ -2,7 +2,7 @@
 Currently: Bash; Python.
 Useful code for common issues.
 
-| Language |Tool| Link | Description |
+| Language |Tool/Library| Link | Description |
 |:-----:|:-----:|:----:|:----:|
 |Bash||[File Count](https://github.com/jbrdge/Recipes/blob/master/Bash/filecount.sh)|Returns the count of files in a directory |
 |Bash||[Convert To Numbered List](https://github.com/jbrdge/Recipes/blob/master/Bash/converttonumberedlist.sh)| Orders all files in a directory from 1 to N|
@@ -17,4 +17,4 @@ Useful code for common issues.
 |Python|Sklearn|[Data Imputation](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/ImputeData.py)| Sklearn method that uses various metrics for data imputation |
 |Python|Sklearn|[Categorical Encoding](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/CategoricalEncoding.py)| Label Encoding and One-Hot Encoding examples |
 |Python|Sklearn|[Pipeline](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/Pipeline.py)| Design a pipeline to combine multiple steps |
-|Python|Sklearn|[XGBoost](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/xgboost.py)| Extreme Gradient Boosting |
+|Python|XGBoost|[XGBoost](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/xgboost.py)| Extreme Gradient Boosting |
