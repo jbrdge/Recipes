@@ -2,6 +2,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder
+#https://www.kaggle.com/alexisbcook/pipelines
 
 # Step 1
 # we use the ColumnTransformer class to bundle together
