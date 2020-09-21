@@ -45,3 +45,5 @@ def oneHot_encode(X_train,X_valid):
     # Add one-hot encoded columns to numerical features
     OH_X_train = pd.concat([num_X_train, OH_cols_train], axis=1)
     OH_X_valid = pd.concat([num_X_valid, OH_cols_valid], axis=1)
+
+    return(OH_X_train,OH_X_valid)
