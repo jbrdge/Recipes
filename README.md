@@ -15,3 +15,4 @@ Useful code for common issues.
 |Python|Sklearn|[Decision Trees](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/DecisionTrees.py)| Uses Decsion Tree Model, returns Mean Absolute Error |
 |Python|Sklearn|[Random Forest](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/RandomForest.py)| Uses Random Forest Model, returns Mean Absolute Error |
 |Python|Sklearn|[Data Imputation](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/ImputeData.py)| Sklearn method that uses various metrics for data imputation |
+|Python|Sklearn|[Categorical Encoding](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/CategoricalEncoding.py)| Label Encoding and One-Hot Encoding examples |
