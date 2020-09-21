@@ -16,7 +16,6 @@ categorical_transformer = Pipeline(steps=[
     ('onehot', OneHotEncoder(handle_unknown='ignore'))
 ])
 
-# Step 2
 # Bundle preprocessing for numerical and categorical data
 preprocessor = ColumnTransformer(
     transformers=[
@@ -24,4 +23,14 @@ preprocessor = ColumnTransformer(
         ('cat', categorical_transformer, categorical_cols)
     ])
 
-we use the ColumnTransformer class to bundle together different preprocessing steps
+# Step 2
+# Bundle preprocessing and modeling code in a pipeline
+my_pipeline = Pipeline(steps=[('preprocessor', preprocessor),
+                              ('model', model)
+                             ])
+
+# Preprocessing of training data, fit model 
+my_pipeline.fit(X_train, y_train)
+
+# Preprocessing of validation data, get predictions
+preds = my_pipeline.predict(X_valid)
