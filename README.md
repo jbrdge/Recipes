@@ -21,3 +21,4 @@ Useful code for common issues.
 |Python|Multiprocessing|[Multiprocessing](https://github.com/jbrdge/Recipes/blob/master/Python/multiprocessing.py)| Enhance performance by using multiple processes in parallel. |
 |Python|LightGBM|[Light GBM](https://github.com/jbrdge/Recipes/blob/master/Python/LightGBM/lgbm.py)| Gradient boosting framework that uses tree based learning algorithm |
 |Python|Categorical Encoding|[Category Encoding](https://github.com/jbrdge/Recipes/blob/master/Python/categoryEncoding.py)| Useful python package for various tools to encode data |
+|Python|BigQuery|[Perform a Query](https://github.com/jbrdge/Recipes/blob/master/Python/performAQuery.py)| Sample implementation of BigQuery from import to query|
