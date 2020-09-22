@@ -17,5 +17,6 @@ Useful code for common issues.
 |Python|Sklearn|[Data Imputation](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/ImputeData.py)| Sklearn method that uses various metrics for data imputation |
 |Python|Sklearn|[Categorical Encoding](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/CategoricalEncoding.py)| Label Encoding and One-Hot Encoding examples |
 |Python|Sklearn|[Pipeline](https://github.com/jbrdge/Recipes/blob/master/Python/Sklearn/Pipeline.py)| Design a pipeline to combine multiple steps |
-|Python|XGBoost|[XGBoost](https://github.com/jbrdge/Recipes/blob/master/Python/XGBoost/xgboost.py)| Extreme Gradient Boosting |
+|Python|XGBoost|[XGBoost](https://github.com/jbrdge/Recipes/blob/master/Python/XGBoost/xgboost.py)| Extreme Gradient Boosting for high performance predictions|
 |Python|Multiprocessing|[Multiprocessing](https://github.com/jbrdge/Recipes/blob/master/Python/multiprocessing.py)| Enhance performance by using multiple processes in parallel. |
+|Python|LightGBM|[Light GBM](https://github.com/jbrdge/Recipes/blob/master/Python/LightGBM/lgbm.py)| Gradient boosting framework that uses tree based learning algorithm |
