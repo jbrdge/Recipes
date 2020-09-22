@@ -20,3 +20,4 @@ Useful code for common issues.
 |Python|XGBoost|[XGBoost](https://github.com/jbrdge/Recipes/blob/master/Python/XGBoost/xgboost.py)| Extreme Gradient Boosting for high performance predictions|
 |Python|Multiprocessing|[Multiprocessing](https://github.com/jbrdge/Recipes/blob/master/Python/multiprocessing.py)| Enhance performance by using multiple processes in parallel. |
 |Python|LightGBM|[Light GBM](https://github.com/jbrdge/Recipes/blob/master/Python/LightGBM/lgbm.py)| Gradient boosting framework that uses tree based learning algorithm |
+|Python|Categorical Encoding|[Category Encoding](https://github.com/jbrdge/Recipes/blob/master/Python/categoryEncoding.py)| Useful python package for various tools to encode data |
