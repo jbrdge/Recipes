@@ -5,5 +5,5 @@ i=0
 for f in *;
 do file $f;
 mv $f ${i}.png;
-i=i+1;
+i=$((i+1));
 done
