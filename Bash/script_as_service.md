@@ -10,6 +10,8 @@ At times you create a script and then you want to have the scripts controlled by
 cd /etc/systemd/system
 Create a file named your-service.service and include the following:
 
+
+<pre><code>
 [Unit]
 Description=<description about this service>
 
@@ -21,10 +23,11 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
- 
+</code></pre> 
+
 For Python specific projects which include virtual environment:
 
-
+<pre><code>
 [Unit]
 Description=<project description>
 
@@ -37,6 +40,7 @@ ExecStart=<path to python script>
 [Install]
 WantedBy=multi-user.target
  
+</code></pre>
 
 Reload the service files to include the new service.
 sudo systemctl daemon-reload
