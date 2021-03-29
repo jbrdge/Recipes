@@ -11,8 +11,7 @@ cd /etc/systemd/system
 Create a file named your-service.service and include the following:
 
 
-<pre><code>
-[Unit]
+<pre><code>[Unit]
 Description=<description about this service>
 
 [Service]
@@ -27,8 +26,7 @@ WantedBy=multi-user.target
 
 For Python specific projects which include virtual environment:
 
-<pre><code>
-[Unit]
+<pre><code>[Unit]
 Description=<project description>
 
 [Service]
