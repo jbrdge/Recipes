@@ -1,5 +1,5 @@
 Useful bash 
 
-# Display user information
+## Display user information
 cat /etc/passwd
 
